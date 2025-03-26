@@ -15,8 +15,8 @@ echo "deb [signed-by=/etc/apt/trusted.gpg.d/playit.gpg] https://playit-cloud.git
 sudo apt update
 sudo apt install playit
 ```
-- Then run playit by entering `playit`, and then go to the link given to link it to your playit.gg account. Then, on the playit.gg dashboard, add a tunnel with type Minecraft: Java Edition and then create it.
-- For Bedrock, do the same thing as before but then create a Minecraft: Bedrock Edition type tunnel.
+- Then run playit by entering `playit`, and then go to the link given to link it to your playit.gg account. Then, on the playit.gg dashboard, add a tunnel with type Minecraft: Java Edition and then create it. Then copy the server link and use it!
+- For Bedrock, do the same thing as before but then create a Minecraft: Bedrock Edition type tunnel. Then copy the server link and use it!
 
 ## Using Simple Voice Chat
 Use the Simple Voice Chat plugin/mod, and then setup a UDP-type-tunnel in playit.gg and set the port to 24454 (or whatever your Simple Voice Chat port is) and then copy the url with the port (something like 123123.ply.gg:1234) and go into the voice chat properties, and then set voice_host to that URL. then restart the server and it'll be good!
