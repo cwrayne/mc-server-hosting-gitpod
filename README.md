@@ -6,7 +6,7 @@ Java and Bedrock server hosting FOR FREE thats actually really good with gitpod
 Go [here](https://gitpod.io/#https://github.com/cwrayne/mc-server-hosting-gitpod) and login/create an account if you haven't already. Then, switch Standard to Large for a better machine (This is completely optional, but recommended) and then press Continue.
 **YOU WILL HAVE TO LEAVE THE BROWSER WINDOW OPEN TO KEEP THE SERVER RUNNING!**
 ## Just... add the server files
-Download the server files from whereever
+Download the server files from whereever (and get Java)
 ## Share the server
 **DO NOT USE THE PORTS MENU WITHIN GITPOD**, create/sign in to your account if you havent already [here](https://playit.gg/login), create a new terminal tab (the + button near the terminal name) and then install playit.gg using these commands:
 ```sh
